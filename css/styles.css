@@ -1,0 +1,14 @@
+body {
+  background-color: #E9DAC1;
+}
+
+hr {
+  border-style: groove;
+  border-color: #54BAB9;
+  border-width: 5px;
+  width: 30%;
+}
+
+h1 {
+  color: #18978F;
+}
